@@ -3,4 +3,4 @@ Repo for my generic software engg concept working notes
 
 ### Links
 * DevOps
-    * [CI/CD](devops/cicd.md)
+    * [CI/CD](docs/devops/cicd.md)
